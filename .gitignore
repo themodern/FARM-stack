@@ -87,3 +87,6 @@ public/
 # Package lock files (npm / yarn)
 package-lock.json
 yarn.lock
+
+# venv folder
+venv/
