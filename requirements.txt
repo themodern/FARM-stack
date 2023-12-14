@@ -70,6 +70,7 @@ google-auth-oauthlib==1.0.0
 google-pasta==0.2.0
 greenlet==1.1.2
 grpcio==1.56.0
+gunicorn==21.2.0
 h11==0.13.0
 h5py==3.9.0
 html5lib==1.1
